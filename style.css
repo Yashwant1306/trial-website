@@ -1,0 +1,242 @@
+#navbar{
+    display: flex;
+    justify-content: space-between;
+    background-color: #ffffff;
+    margin-top: -50px;
+    padding: 10px;
+}
+.logo1{
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+}
+.logo2{
+    height: 70%;
+    width: 70%;
+}
+.list2{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    padding-top: 5px;
+}
+.lists{
+    text-decoration: none;
+    font-size: 16px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    padding-left: 40px;
+}
+.button1{
+    padding: 15px  70px 10px 10px;
+}
+.button2{
+    border-style: none;
+    border-radius: 50px;
+    padding: 8px 35px;
+    background-color:rgb(141,129,172);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: #ffffff;
+    font-size: 15px;
+}
+#backgraound{
+    background-image: url(images/img-decor-01.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 140vh;
+    width: 100%;  
+    /* position:absolute;
+    right: 10px;  */
+    padding-top: 50px; 
+   
+}
+.main-part{
+    color: #ffffff;
+    font-size: 50px;
+}
+h2{
+    display: flex;
+    justify-content: center;
+    font-size: 90px;
+    margin-bottom: 0px;
+    margin-top: 50px;
+}
+.text{
+    font-size: 30px;
+    color: rgb(141,129,172);
+    display: flex;
+    justify-content: center;
+    margin-bottom: 5px;
+}
+.text2{
+    font-size: 22px;
+    color:#494654;
+    display: flex;
+    justify-content: center;
+    text-transform: uppercase;
+}
+.button3{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    z-index: 1;
+    margin: -30px 10px 0px 10px;
+    
+}
+.button4{
+    border-style: none;
+    background-color:rgb(141,129,172) ;
+    color: #ffffff;
+    font-size: 25px;
+    padding: 15px 65px;
+    border-radius: 40px;
+}
+.text3{
+    text-align: center;
+    margin-top: 40px;
+    font-size: 14px;
+    color: #848e97;
+}
+.edit{
+   text-align: center;
+   margin-top: 50px;
+}
+h3{
+    font-size: 60px;
+    text-transform: uppercase;
+    color: #716E79;
+    margin-bottom: 10px;
+}
+.text4{
+    font-size: 22px;
+    color: #716E79;
+}
+.photo{
+    width: 30%;
+    margin-top: 20px;
+}
+.color{
+    background-color: #dbd0d0ea;
+}
+.info{
+    display: flex;
+    justify-content: center;
+    padding-top: 40px;
+}
+.photo2{
+    border-radius: 100%;
+    margin-right: 20px;
+    height: 17vh;
+}
+.text5{
+    font-size: 20px;
+    padding-left: 10px;
+}
+.word1{
+    font-size: 30px;
+}
+.text6{
+    font-size: 20px;
+    text-align: center;
+}
+.time{
+    text-align: center;
+    color: #848e97;
+    font-size: 18px;
+    padding-bottom: 40px;
+}
+#grid{
+    background-image: url(images/img-decor-02.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 110vh;
+    width: 100%;
+    margin-top: -60px;  
+}
+.text7{
+    font-size: 60px;
+    color: #ffffff;
+    text-align: center;
+    padding-top: 80px;
+}
+.grid-contanior{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    column-gap: 10px;
+    row-gap: 50px;
+    padding-left: 60px;
+    padding-top: 20px;
+}
+.box{
+    text-align: center;
+    color: #ffffff;
+}
+.p1{
+    font-size: 12px;
+    text-align: center;
+    color: #848e97;
+    padding-top: 15px;
+}
+.flex{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgba(234, 218, 218, 0.918);
+    line-height: 25px;
+}
+.logo3{
+    height: 20vh;
+    width: 40%;
+    margin-bottom: -20px;
+}
+.tag1{
+    padding-left: 50px;
+}
+.tag{
+    font-size: 14px;
+    margin-top: -10px ;
+    color: #848e97;
+}
+.tag2{
+    padding-right: 50px ;
+    margin-left: -100px;
+}
+h5{
+    font-size: 20px;
+    color: #55525d;
+}
+.part{
+    list-style: none;
+    margin-left: -40px;
+    margin-top: -20px ;
+}
+.part1{
+    text-decoration: none;
+    font-size: 17px;
+    color:#848e97;
+}
+.tag3{
+    margin-top: 20px;
+}
+.num1{
+    font-size: 30px;
+    color: #55525d;
+}
+.number{
+    font-size: 15px;
+    color:#848e97;
+}
+.text8{
+    font-size: 15px;
+    color:#848e97;
+}
+.num2{
+    font-size: 20px;
+    color: #55525d;
+}
+.text9{
+    font-size: 15px;
+    color: #848e97;
+    margin-top: -15px;
+}
